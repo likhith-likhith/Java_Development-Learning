@@ -181,7 +181,7 @@ java -cp bin com.likhith.atm.Main
 
 ## 11. User 2 Balance After Receiving Money
 
-![User2 After Receive](screenshots/11-user2-after_recieve.png)
+![User2 After Receive](screenshots/11-user2-after_receive.png)
 
 ---
 
