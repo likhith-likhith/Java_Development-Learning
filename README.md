@@ -1,12 +1,4 @@
-# Oasis Infobyte Java Development Internship
-
-This repository contains my Java Development Internship projects completed as part of the Oasis Infobyte Internship Program.
-
----
-
-## Projects
-
-### Task 1 – Online Reservation System
+Online Reservation System
 
 A Java Swing desktop application that allows users to:
 
@@ -59,10 +51,10 @@ JavaDevelopment-Task2-ATMInterface
 ## Repository Structure
 
 ```
-OIBSIP
+Java_Development-Learning
 │
-├── JavaDevelopment-Task1-OnlineReservationSystem
-└── JavaDevelopment-Task2-ATMInterface
+├── OnlineReservationSystem
+└── ATMInterface
 ```
 
 ---
