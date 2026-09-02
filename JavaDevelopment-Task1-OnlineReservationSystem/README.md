@@ -77,7 +77,7 @@ git clone https://github.com/YOUR_USERNAME/Java_Development-Learning.git
 ### Open Project
 
 ```bash
-cd Java_Development-Learning/JavaDevelopment-OnlineReservationSystem
+cd Java_Development-Learning/JavaDevelopment-Task1-OnlineReservationSystem
 ```
 
 ### Compile
