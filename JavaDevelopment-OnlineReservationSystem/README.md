@@ -1,3 +1,5 @@
+# Online Reservation System
+
 # 📖 Project Overview
 
 The **Online Reservation System** is a desktop-based Java application developed using **Java Swing**, **SQLite**, **JDBC**, and **Maven**. It provides a secure login system, train ticket reservation, automatic PNR generation, ticket cancellation, and database management through an interactive graphical user interface.
@@ -77,7 +79,7 @@ git clone https://github.com/YOUR_USERNAME/Java_Development-Learning.git
 ### Open Project
 
 ```bash
-cd Java_Development-Learning/JavaDevelopment-Task1-OnlineReservationSystem
+cd Java_Development-Learning/JavaDevelopment-OnlineReservationSystem
 ```
 
 ### Compile
@@ -149,7 +151,7 @@ mvn exec:java "-Dexec.mainClass=com.likhith.reservation.Main"
 ```
 OIBSIP
 │
-└── JavaDevelopment-Task1-OnlineReservationSystem
+└── JavaDevelopment-OnlineReservationSystem
     │
     ├── screenshots
     │   ├── 01-login.png
@@ -181,7 +183,3 @@ OIBSIP
 - Admin Panel
 - Booking History
 - Train Schedule Management
-
----
-
-## ⭐ If you like this project, don't forget to star the repository!

@@ -1,21 +1,8 @@
 # 🏦 ATM Interface
 
-## Oasis Infobyte Internship
-
-### 👨‍💻 Name
-**Likhith**
-
-### 📚 Track
-**Java Development**
-
-### ✅ Task
-**Task 2 - ATM Interface**
-
----
-
 # 📌 Project Description
 
-The ATM Interface is a Java Swing-based desktop application developed as part of the Oasis Infobyte Java Development Internship. It simulates the core functionalities of an Automated Teller Machine (ATM), allowing users to securely log in using a User ID and PIN and perform various banking operations through a professional graphical user interface.
+The ATM Interface is a Java Swing-based desktop application. It simulates the core functionalities of an Automated Teller Machine (ATM), allowing users to securely log in using a User ID and PIN and perform various banking operations through a professional graphical user interface.
 
 The project is developed using Java Object-Oriented Programming (OOP) concepts and Java Swing, providing a realistic banking experience with proper validation, transaction management, and user-friendly navigation.
 
@@ -52,7 +39,7 @@ The project is developed using Java Object-Oriented Programming (OOP) concepts a
 # 📂 Project Structure
 
 ```text
-JavaDevelopment-Task2-ATMInterface
+JavaDevelopment-ATMInterface
 │
 ├── src
 │   └── com
@@ -213,23 +200,3 @@ java -cp bin com.likhith.atm.Main
 - User Authentication
 - Multi-Class Project Design
 - GUI-based Desktop Application Development
-
----
-
-# 📌 Internship Information
-
-**Organization:** Oasis Infobyte
-
-**Track:** Java Development
-
-**Task:** Task 2 – ATM Interface
-
----
-
-# 👨‍💻 Developed By
-
-**Likhith**
-
-Java Development Intern
-
-Oasis Infobyte

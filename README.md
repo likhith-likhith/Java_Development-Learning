@@ -1,4 +1,6 @@
-Online Reservation System
+# Projects
+
+### Online Reservation System
 
 A Java Swing desktop application that allows users to:
 
@@ -11,12 +13,12 @@ A Java Swing desktop application that allows users to:
 
 📁 Folder:
 ```
-JavaDevelopment-Task1-OnlineReservationSystem
+JavaDevelopment-OnlineReservationSystem
 ```
 
 ---
 
-### Task 2 – ATM Interface
+### ATM Interface
 
 A Java Swing desktop application that simulates ATM operations.
 
@@ -32,7 +34,7 @@ Features:
 
 📁 Folder:
 ```
-JavaDevelopment-Task2-ATMInterface
+JavaDevelopment-ATMInterface
 ```
 
 ---
@@ -51,17 +53,12 @@ JavaDevelopment-Task2-ATMInterface
 ## Repository Structure
 
 ```
-Java_Development-Learning
+Java_Development_Learning
 │
-├── Task1-OnlineReservationSystem
-└── Task2-ATMInterface
+├── JavaDevelopment-OnlineReservationSystem
+└── JavaDevelopment-ATMInterface
 ```
 
 ---
-
-## Author
-
-**Likhith**
-
 GitHub:
 https://github.com/likhith-likhith
