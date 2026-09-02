@@ -1,15 +1,3 @@
-
-
-# 🚆 Online Reservation System
-
-> **Oasis Infobyte Internship Project**
-
-**Name:** Likhith
-**Track:** Java Development  
-**Task:** Online Reservation System
-
----
-
 # 📖 Project Overview
 
 The **Online Reservation System** is a desktop-based Java application developed using **Java Swing**, **SQLite**, **JDBC**, and **Maven**. It provides a secure login system, train ticket reservation, automatic PNR generation, ticket cancellation, and database management through an interactive graphical user interface.
@@ -83,13 +71,13 @@ The **Online Reservation System** is a desktop-based Java application developed 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OIBSIP.git
+git clone https://github.com/YOUR_USERNAME/Java_Development-Learning.git
 ```
 
 ### Open Project
 
 ```bash
-cd OIBSIP/JavaDevelopment-Task1-OnlineReservationSystem
+cd Java_Development-Learning/JavaDevelopment-OnlineReservationSystem
 ```
 
 ### Compile
@@ -193,22 +181,6 @@ OIBSIP
 - Admin Panel
 - Booking History
 - Train Schedule Management
-
----
-
-# 👨‍💻 Author
-
-**Likhith**
-
-Java Development Intern
-
-**Organization:** Oasis Infobyte
-
----
-
-# 🙏 Acknowledgement
-
-This project was developed as part of the **Oasis Infobyte Java Development Internship** to demonstrate Java programming, Swing GUI development, Maven project management, JDBC connectivity, and SQLite database integration.
 
 ---
 
