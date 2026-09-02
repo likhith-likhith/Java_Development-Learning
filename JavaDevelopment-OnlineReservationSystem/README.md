@@ -73,7 +73,7 @@ The **Online Reservation System** is a desktop-based Java application developed 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Java_Development-Learning.git
+git clone https://github.com/likhith-likhith/Java_Development-Learning.git
 ```
 
 ### Open Project
