@@ -53,7 +53,7 @@ JavaDevelopment-ATMInterface
 ## Repository Structure
 
 ```
-Java_Development_Learning
+Java_Development-SimpleProjects
 │
 ├── JavaDevelopment-ATMInterface
 └── JavaDevelopment-OnlineReservationSystem
